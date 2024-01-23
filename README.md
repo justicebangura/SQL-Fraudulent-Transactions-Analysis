@@ -1,12 +1,16 @@
 # Module-7-challenge
 
+![An Image of How credit card fraud works from make use of images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/credit-card-fraud.jpg)
+
+* An Image of How credit card fraud works from make use of images.
+
 # Analysis of Potentially Fraudulent Transactions in Credit Card Data
 
 I conducted a detailed examination of our credit card transaction data, focusing on specific cardholders and timeframes to identify potential fraudulent activities.
 
 ## Investigating Suspicious Transactions for Specific Card Holders
 
-Our analysis of card holders with IDs 2 and 18 revealed distinct patterns indicative of possible fraud. Card holder 2 was involved in 11 transactions, each under $2, but none exceeded $500. In contrast, card holder 18's activity raised more concerns, with 19 transactions below $2 and 7 exceeding $500.
+My analysis of Our card holders with IDs 2 and 18 revealed distinct patterns indicative of possible fraud. Card holder 2 was involved in 11 transactions, each under $2, but none exceeded $500. In contrast, card holder 18's activity raised more concerns, with 19 transactions below $2 and 7 exceeding $500.
 
 ## Visual and Comparative Data Analysis
 
