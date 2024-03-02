@@ -1,10 +1,8 @@
-# Module-7-challenge
+# Analysis of Potentially Fraudulent Transactions in Credit Card Data
 
 ![An Image of How credit card fraud works from make use of images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/credit-card-fraud.jpg)
 
 * An Image of How credit card fraud works from make use of images.
-
-# Analysis of Potentially Fraudulent Transactions in Credit Card Data
 
 I conducted a detailed examination of our credit card transaction data, focusing on specific cardholders and timeframes to identify potential fraudulent activities.
 
